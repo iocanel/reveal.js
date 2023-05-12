@@ -47,6 +47,21 @@ $heading4Size: 1.0em;
 }
 
 .header {
+  background: black;
+  height: 60px;
+  width: 100%
+ }
+
+.logo {
+  position: fixed;
+  top: 0px;
+  left: 12px;
+  width: auto;
+  height: 24px;
+//  opacity: 0.5;
+ }
+
+.stripe {
   position: fixed;
   top: 0px;
   left: 0px;
