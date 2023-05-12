@@ -1,5 +1,5 @@
-## Slide 1
-A paragraph with some text and a [link](https://iocanel.com).
+## Quarkus Themed Presentations
+[Ioannis Canellos](https://iocanel.com)
 ---
 
 ## Slide 2
